@@ -14,6 +14,13 @@ The name, id, sigil, and scope fields for all 97 were co-created with ChatGPT-4o
 
 The glyph file therefore is intended to contain the metadata associated with these associative links. However, It will take some time to rigorously test the effects of each one and I cannot guarantee that it is even worthwhiile to do so. The way I like to see it is not as a flaw that inhibits the usefulness of this, but rather as room for further improvement.
 
+### References
+
+I see it as lore more than hard science FWIW, but here's the paper (also attached as a PDF).
+
+[https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000300230001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000300230001-5.pdf) - Page 72
+
+
 ## Prompt
 
 We need to prompt the model to know how to interpret the glyph metadata. Use the provided prompt to do so. I'm not a prompting genius and this is far from perfect. 
