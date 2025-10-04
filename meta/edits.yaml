@@ -1,0 +1,10 @@
+"50":
+  id_ref: 50              # if the key ever changes, this will point to the previous id
+  current_sigil: 🜔
+  legacy_aliases:
+    - 🜛
+    - 🧂
+  latest_change:
+    level: minor          # minor | patch | major
+    date: 2025-10-04
+    reason: "Switch to canonical Unicode salt symbol (🜔)."
