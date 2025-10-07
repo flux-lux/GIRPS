@@ -8,3 +8,10 @@
     level: minor          # minor | patch | major
     date: 2025-10-04
     reason: "Switch to canonical Unicode salt symbol (🜔)."
+"101":
+  id_ref: 101
+  current_sigil: ↺
+  latest_change:
+    level: major
+    date: 2025-10-04
+    reason: "Major lattice phase shift"
